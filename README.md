@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/aniket5761/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/aniket5761?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/aniket5761?theme=dark&font=Fira+Code" alt="LeetCode Stats" />
   </a>
 </p>
 
