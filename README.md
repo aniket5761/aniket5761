@@ -93,8 +93,6 @@
 
 ---
 
----
-
 ## 🏆 Coding Journey
 
 <p align="center">
@@ -115,7 +113,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniket5761/aniket5761/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniket5761/aniket5761/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/aniket5761/aniket5761/output/github-snake.svg" alt="Contribution Snake" />
+    <img src="https://raw.githubusercontent.com/aniket5761/aniket5761/output/github-snake.svg"/>
   </picture>
 </p>
 
