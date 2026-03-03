@@ -54,7 +54,6 @@
   </a>
 </p>
 
-<p align="center"><i>"First, solve the problem. Then, write the code."</i> — John Johnson</p>
 
 ---
 
@@ -101,9 +100,6 @@
   </a>
 </p>
 
-<p align="center">
-  <i>“Programming isn't about what you know; it's about what you can figure out.” — Chris Pine</i>
-</p>
 
 ---
 
@@ -120,5 +116,5 @@
 ---
 
 <p align="center">
-  <b>⚡ Building scalable backend systems and mastering DevOps — one commit at a time.</b>
+  <b>⚡ Building scalable backend systems and mastering DevOps  one commit at a time.</b>
 </p>
