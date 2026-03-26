@@ -1,11 +1,11 @@
 [![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
+<h1 align="center">Hi, I'm Aniket Kumar</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" />
 </p>
 
-<h3 align="center">Backend-Focused Developer | Spring Boot | DevOps Enthusiast | DSA Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | React | Spring Boot | DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniket5761&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 <table align="center"> 
 <tr>
@@ -21,14 +21,14 @@
 
 <ul>
 
-<li>💻 Backend-focused developer specializing in <b>Spring Boot & Java</b></li>
-<li>🧠 Strong foundation in <b>Data Structures & Algorithms</b></li>
-<li>🐳 Working with <b>Docker</b> and exploring DevOps practices</li>
-<li>🗄️ Experienced with <b>PostgreSQL, MySQL & MongoDB</b></li>
-<li>⚡ Interested in building <b>scalable & production-grade backend systems</b></li>
-<li>🌱 Currently growing towards becoming a <b>Full-Stack Java Developer</b></li>
-<li>🚀 Open to Backend, DevOps & Full-Stack opportunities</li>
-<li>📫 Reach me at: <b>aniketkumars0987@gmail.com</b></li>
+<li>Experienced Backend Developer with specializing in <b>Spring Boot & Java</b></li>
+<li>Currently learning <b>Frontend development with React</b> to become a full-stack developer</li>
+<li>Familiar with <b>DevOps practices and Docker</b></li>
+<li>Proficient in <b>PostgreSQL, MySQL & MongoDB</b></li>
+<li>Focused on developing <b>production-grade applications</b></li>
+<li>Currently growing skills in <b>modern frontend and backend technologies</b></li>
+<li>Open to Full-Stack and DevOps opportunities</li>
+<li>Reach me at: <b>aniketkumars0987@gmail.com</b></li>
 
 </ul>
 
@@ -57,9 +57,9 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
-### 🚀 Languages
+###  Languages
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p> 
 
-### 🏗️ Backend & Frameworks
+### Backend & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -78,13 +78,13 @@
   <img src="https://img.shields.io/badge/REST API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### ⚙️ DevOps & Tools
+###  DevOps & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -94,7 +94,7 @@
 
 ---
 
-## 🏆 Coding Journey
+## Coding Journey
 
 <p align="center">
   <a href="https://leetcode.com/u/aniket5761/" target="_blank">
@@ -105,18 +105,4 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniket5761/aniket5761/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniket5761/aniket5761/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/aniket5761/aniket5761/output/github-snake.svg"/>
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <b>⚡ Building scalable backend systems and mastering DevOps  one commit at a time.</b>
-</p>
